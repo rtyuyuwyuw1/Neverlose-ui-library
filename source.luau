@@ -208,7 +208,7 @@ NeverLose.GlobalLogo = "rbxassetid://120358385035996";
 NeverLose.ImageColorMapping = "rbxassetid://4155801252";
 
 if getcustomasset then
-	local link = "https://raw.githubusercontent.com/rtyuyuwyuw1/Neverlose-ui-library/refs/heads/main/assets/";
+	local link = "https://raw.githubusercontent.com/rtyuyuwyuw1/Neverlose-ui-library/refs/heads/main/assets/%s";
 	local dir = 'NLAssets';
 
 	if not isfolder(dir) then
